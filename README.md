@@ -1,4 +1,4 @@
-# minor_project
+# minor_project- Image Classification
 
 ## Description 
 This project classifies images according to the test model.
